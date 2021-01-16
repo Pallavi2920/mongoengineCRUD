@@ -1,0 +1,5 @@
+Django==3.1.5
+Python==3.8.5
+mongoengine
+django-mongoengine
+mongoDb(database)==4.4.3
